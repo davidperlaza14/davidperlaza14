@@ -42,8 +42,8 @@
 
 ### My Stats : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidPerlaza14&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidperlaza14&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![davidperlaza14](https://github-readme-stats.vercel.app/api?username=Davidperlaza14&show_icons=true&theme=radical)
+![davidperlaza14](https://github-readme-stats.vercel.app/api?username=davidperlaza14&show_icons=true&theme=radical)
 
 [![davidperlaza14](https://github-readme-stats.vercel.app/api/top-langs/?username=davidperlaza14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
