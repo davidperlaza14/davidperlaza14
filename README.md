@@ -20,7 +20,7 @@
 
  - 🌱 I’m currently learning **React.js, Django, Flask, Tkinter.SpingBoot** 
 
- - 📫 How to reach me: **davidperlaza14@gmail.com**
+ - 📫 How to reach me: **davidperlaza1427@gmail.com**
 ---
 
 
