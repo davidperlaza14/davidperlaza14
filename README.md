@@ -35,7 +35,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="" alt="HTML" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="" alt="HTML" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="" alt="HTML" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="" alt="HTML" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="" alt="HTML" width="70" height="70">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="" alt="HTML" width="40" height="40">&nbsp;
     </div>
 </div>
