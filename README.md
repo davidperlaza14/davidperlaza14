@@ -16,9 +16,9 @@
  
  -    I am a software developer   
 
- - 💬 Ask me about **Python, SQL, HTML, CSS, Javascript.**
+ - 💬 Ask me about **Python, SQL, HTML, CSS, Javascript, Java.**
 
- - 🌱 I’m currently learning **React.js, Django, Flask, Tkinter.** 
+ - 🌱 I’m currently learning **React.js, Django, Flask, Tkinter.SpingBoot** 
 
  - 📫 How to reach me: **davidperlaza14@gmail.com**
 ---
